@@ -1,0 +1,20 @@
+{
+  "name": "skipper-disk-chunked",
+  "version": "1.0.0",
+  "description": "A Skipper Disk plugin that supports chunked uploads",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/screemo/skipper-disk-chunked"
+  },
+  "author": "Nitzan Bar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/screemo/skipper-disk-chunked/issues"
+  },
+  "homepage": "https://github.com/screemo/skipper-disk-chunked",
+  "dependencies": {
+    "fs-extra": "^0.16.5",
+    "skipper-disk": "^0.5.4"
+  }
+}
